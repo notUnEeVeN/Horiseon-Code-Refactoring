@@ -1,11 +1,11 @@
-# Tybalt Mallet Module-1-Challenge
+# Horiseon Code Refactoring Module 1 Challenge
 
 ## Description
 This is my first module challenge for the first week at the UCB coding camp, this weeks focus was on the fundamentals of Git, HTML, and CSS. I utilized these three skills to help me take the beginner code for a website that was provided to us and fix issues in the HTML and CSS codes logic, organization and/or syntax to not only make the website function like it is supposed to, but make the code more approachable for future developers looking to continue working on the code. I also made sure to write a note for every amendment that I made, in case I ever need to review what/how I did a specific edit, and/or easily remove that change if it becomes undesirable in the future, this also makes it easier for other coders to work on the same project, and be immediately aware of the revisions that have been made. 
 
 ## Project Link
 
-https://notuneeven.github.io/TybaltMallet-Module-1-Challenge/
+https://notuneeven.github.io/Horiseon-Code-Refactoring/
 
 ## Screenshot of Website
 
